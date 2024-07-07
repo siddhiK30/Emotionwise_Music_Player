@@ -1,0 +1,16 @@
+Music Recommendation Using Emotion Recognition.
+ 
+ 
+Requirements:
+
+    Technologies Used:
+    ·  Machine Learning: TensorFlow, MediaPipe, OpenCV, NumPy
+    ·  Web Development: HTML, CSS, JavaScript
+    ·  Backend: Django
+    ·  Web Integration: Streamlit
+
+    Version:
+        Python - 3.6 
+        Tensorflow - 2.16.1
+        Mediapipe - 0.10.11
+        Latest version of OpenCV and Streamlit
